@@ -1,2 +1,2 @@
 # FileShredder
-Simple File and Folder Shredder tools. Build using python code.
+Simple File and Folder Shredder tools for Windows PC. Build using python code.
